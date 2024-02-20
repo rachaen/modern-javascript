@@ -2,7 +2,7 @@
 
 ### 연혁
 
-[전프협의 CS 스터디](https://github.com/pthwan27/frontend_Study) (23.06.09 ~)
+[👉Frontend CS 스터디👈](https://github.com/pthwan27/frontend_Study) (23.06.09 ~ 23.11.23)
 
 👉모던 자바스크립트 딥 다이브 스터디👈 (24.02.18 ~)
 
