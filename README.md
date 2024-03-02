@@ -27,5 +27,7 @@
 | ----- | ----- | ------ | ----- |
 | 4장. 변수 | [바로가기](https://github.com/rachaen/modern-javascript/tree/main/04%EC%9E%A5%20%EB%B3%80%EC%88%98) | **이채은** | 24.02.22 |
 | 5장. 표현식과 문 | [바로가기](https://github.com/rachaen/modern-javascript/tree/main/05%EC%9E%A5%20%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8) | **박태환** | 24.02.22 |
-| 6장. 데이터 타입 | [바로가기]() |  |  |
-| 7장. 연산자 | [바로가기]() |  |  |
+| 6장. 데이터 타입 | [바로가기](https://github.com/rachaen/modern-javascript/tree/main/06%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85) | **박태환** | 24.02.27 |
+| 7장. 연산자 | [바로가기](https://github.com/rachaen/modern-javascript/tree/main/07%EC%9E%A5%20%EC%97%B0%EC%82%B0%EC%9E%90) | **이채은** | 24.02.27 |
+| 8장. 제어문 | [바로가기]() | **박태환** |  |
+| 9장. 타입 변환과 단축 평가 | [바로가기]() | **이채은** |  |
