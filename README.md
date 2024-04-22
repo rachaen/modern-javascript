@@ -35,4 +35,7 @@
 | 11장. 원시 값과 객체의 비교 | [바로가기](https://github.com/rachaen/modern-javascript/tree/main/11%EC%9E%A5%20%EC%9B%90%EC%8B%9C%20%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90) | **박태환** | 24.04.09 |
 | 12장. 함수 | [바로가기](https://github.com/rachaen/modern-javascript/tree/main/12%EC%9E%A5%20%ED%95%A8%EC%88%98) | **이채은** | 24.04.09 |
 | 13장. 스코프 | [바로가기](https://github.com/rachaen/modern-javascript/tree/main/13%EC%9E%A5%20%EC%8A%A4%EC%BD%94%ED%94%84) | **박태환** | 24.04.09 |
-
+| 14장. 전역 변수의 문제점 | [바로가기](https://github.com/rachaen/modern-javascript/tree/main/14%EC%9E%A5%20%EC%A0%84%EC%97%AD%20%EB%B3%80%EC%88%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90) | **이채은** | 24.04.16 |
+| 15장. let, const키워드와 블록 레벨 스코프 | [바로가기](https://github.com/rachaen/modern-javascript/tree/main/15%EC%9E%A5%20let%2C%20const%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80%20%EB%B8%94%EB%A1%9D%20%EB%A0%88%EB%B2%A8%20%EC%8A%A4%EC%BD%94%ED%94%84) | **박태환** | 24.04.16 |
+| 16장. 프로퍼티 어트리뷰트 | [바로가기]() | **이채은** | 24.04. |
+| 17장. 생성자 함수에 의한 객체 생성 | [바로가기]() | **박태환** | 24.04. |
